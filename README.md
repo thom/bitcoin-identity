@@ -1,4 +1,4 @@
-# Project 1: Create Your Identity on Bitcoin Core
+# Udacity Blockchain Developer Nanodegree Program - Project 1: Create Your Identity on Bitcoin Core
 
 ## Solution
 
